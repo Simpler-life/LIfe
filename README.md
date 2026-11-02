@@ -2,6 +2,8 @@
 
 > Learn deeply. Build independently. Review honestly.
 
+[**Study Coach — new-chat handoff, verification and progress write-back**](Study-Coach/README.md)
+
 ## Current learning tracks
 
 | Track | Purpose | Start here |
